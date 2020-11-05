@@ -1,0 +1,11 @@
+{
+    "name": "PluginMinecraftGametime",
+    "platform": "minecraft",
+    "guid": "636ca436-f5fb-4e03-be57-76a90699ee0b",
+    "version": "0.1",
+    "description": "Plugin to add additional minecraft hours",
+    "author": "Julian Grieco",
+    "email": "grieco.julian@gmail.com",
+    "url": "https://github.com/user/galaxy-plugin-example",
+    "script": "plugin.py"
+}
