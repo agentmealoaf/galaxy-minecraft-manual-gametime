@@ -6,6 +6,6 @@
     "description": "Plugin to add additional minecraft hours",
     "author": "Julian Grieco",
     "email": "grieco.julian@gmail.com",
-    "url": "https://github.com/user/galaxy-plugin-example",
+    "url": "https://github.com/julian-gk/galaxy-minecraft-manual-gametime",
     "script": "plugin.py"
 }
